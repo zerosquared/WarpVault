@@ -58,7 +58,8 @@ WarpVault requires `pigz` for high-speed compression and `protontricks` to ident
 ```bash
 sudo pacman -Syu pigz protontricks
 
-Once system tools are installed, install the GUI framework:
+**Once system tools are installed, install the GUI framework:**
+```bash
 pip install -r requirements.txt
 
 ---
