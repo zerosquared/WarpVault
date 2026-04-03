@@ -48,4 +48,19 @@ The UI is designed for "at-a-glance" management of your local and archived libra
 * **Power Users:** For those who want the speed of Arch/CachyOS with a professional KDE-friendly GUI.
 
 ---
+
+## 🛠️ Installation & Setup
+
+### 1. Install System Dependencies
+WarpVault requires `pigz` for high-speed compression and `protontricks` to identify Steam games.
+
+**For Arch / CachyOS (Bash or Fish):**
+```bash
+sudo pacman -Syu pigz protontricks
+
+Once system tools are installed, install the GUI framework:
+pip install -r requirements.txt
+
+---
+
 **WarpVault 3.0: Because your saves shouldn't be left behind.**
