@@ -5,6 +5,12 @@
 
 **WarpVault** is a specialized, GUI-driven backup engine designed specifically for Linux power users and gamers on distributions like **CachyOS** and **Arch**. It solves the "bloat" problem of modern Linux gaming by allowing you to easily warp (compress) and reconstitute (recover) game prefixes, compatdata, and save folders without the manual overhead of terminal commands.
 
+This is my first attempt at making an app.  Yes, I used A.I. (Gemini) for something that I personally needed and I thought someone else might find this useful as well.  Please be kind.  Any suggestions are welcome but it's just a python script so you can customize however you like.
+
+You WILL have to edit the script to point it to your directories where your prefix folders live and where you want to back them up to.  There are 3 lines at the top that are commented that you will need to change.
+
+This is a free tool that can be customized for use on your own system so please use at your own risk!  I will NOT be responsible for any lost data due to the use of this python script.
+
 ---
 
 ## 🚀 Core Functionality
