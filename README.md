@@ -48,6 +48,7 @@ The UI is designed for "at-a-glance" management of your local and archived libra
 * **Distro Hoppers:** Effortlessly move prefixes between installs (e.g., Mint to CachyOS).
 * **SSD Minimalists:** Keep active games on NVMe; move "resting" prefixes to HDDs or Network Mounts without losing progress.
 * **Power Users:** For those who want the speed of Arch/CachyOS with a professional KDE-friendly GUI.
+* **Stupid Friends:** My stupid friends who said, "I could actually use that" thus, my first repo. :)
 
 ---
 
