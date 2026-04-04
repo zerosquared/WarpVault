@@ -12,6 +12,7 @@ You WILL have to edit the script to point it to your directories where your pref
 This is a free tool that can be customized for use on your own system so please use at your own risk!  I will NOT be responsible for any lost data due to the use of this python script.
 
 *P.S. — If you found this from a certain Reddit thread: yes, all of that, for this tiny Python script. You're welcome to look around.*
+*If you'd like to see the thread, I've included the full page screenshot right when it was removed with all the public usernames visible for posterities sake. I'd hate for all that knowledge to become lost over time.* :)
 
 ---
 
